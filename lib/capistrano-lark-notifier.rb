@@ -1,0 +1,1 @@
+require 'capistrano/lark_notifier'
