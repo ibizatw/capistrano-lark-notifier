@@ -8,9 +8,9 @@ Gem::Specification.new do |spec|
   spec.authors = ["Wayne Chen"]
   spec.email = ["wayne.chen@ibiza.com.tw"]
 
-  spec.summary = "TODO: Write a short summary, because RubyGems requires one."
-  spec.description = "TODO: Write a longer description or delete this line."
-  spec.homepage = "TODO: Put your gem's website or public repo URL here."
+  spec.summary = "Capistrano Lark Notifier"
+  spec.description = "Capistrano Lark Notifier"
+  spec.homepage = "https://github.com/ibiza-tw/capistrano-lark-notifier"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.0.0"
 
