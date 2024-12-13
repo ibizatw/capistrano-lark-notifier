@@ -1,5 +1,10 @@
-require 'lark_notifier/version'
-require 'lark_notifier/notifier'
+require 'capistrano/lark_notifier/version'
+require 'capistrano/lark_notifier/notifier'
+
+module Capistrano
+  module LarkNotifier
+  end
+end
 
 load File.expand_path('../tasks/lark.rake', __FILE__)
 

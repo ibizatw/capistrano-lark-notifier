@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require_relative "notifier/version"
+require_relative "./version"
 
 module Capistrano
   module LarkNotifier
