@@ -1,10 +1,10 @@
 # frozen_string_literal: true
 
-require_relative "lib/capistrano/lark/notifier/version"
+require_relative "lib/capistrano/lark_notifier/version"
 
 Gem::Specification.new do |spec|
   spec.name = "capistrano-lark-notifier"
-  spec.version = Capistrano::Lark::Notifier::VERSION
+  spec.version = Capistrano::LarkNotifier::VERSION
   spec.authors = ["Wayne Chen"]
   spec.email = ["wayne.chen@ibiza.com.tw"]
 
